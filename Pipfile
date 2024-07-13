@@ -9,6 +9,7 @@ langchain-google-genai = "*"
 langchain-chroma = "*"
 langchain-community = "*"
 langsmith = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
