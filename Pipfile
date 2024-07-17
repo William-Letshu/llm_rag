@@ -10,6 +10,9 @@ langchain-chroma = "*"
 langchain-community = "*"
 langsmith = "*"
 python-dotenv = "*"
+langchain-openai = "*"
+numexpr = "*"
+duckduckgo-search = "*"
 
 [dev-packages]
 ipykernel = "*"
